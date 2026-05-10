@@ -18,10 +18,14 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeanbar1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeanbar1&layout=compact&langs_count=7&theme=dracula"/>
+
+  <!-- Opção A: streak stats (muito mais estável) -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=jeanbar1&theme=dracula&locale=pt_BR"/>
+
+  <!-- Linguagens via readme-stats com fallback -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanbar1&layout=compact&langs_count=7&theme=dracula&v=2"/>
+
 </div>
 
 <div align="center">
